@@ -81,12 +81,4 @@
 			</plugin>
 		</plugins>
 	</build>
-	<distributionManagement>
-		<repository>
-			<id>github</id>
-			<name>GitHub Packages</name>
-			<url>https://maven.pkg.github.com/SonJaeMark/chabot-using-gemini</url>
-		</repository>
-	</distributionManagement>
-
 </project>
