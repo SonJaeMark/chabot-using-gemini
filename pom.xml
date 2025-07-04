@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>dev.mark</groupId>
 	<artifactId>chabot-using-gemini</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>chabot-using-gemini</name>
 	<description>chatbot API that uses gemini</description>
 	<url/>
@@ -81,5 +81,12 @@
 			</plugin>
 		</plugins>
 	</build>
+	<distributionManagement>
+		<repository>
+			<id>github</id>
+			<name>GitHub Packages</name>
+			<url>https://maven.pkg.github.com/SonJaeMark/chabot-using-gemini</url>
+		</repository>
+	</distributionManagement>
 
 </project>
