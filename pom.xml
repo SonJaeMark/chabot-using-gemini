@@ -8,7 +8,7 @@
 		<version>3.5.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>dev.mark</groupId>
+	<groupId>com.github.SonJaeMark</groupId>
 	<artifactId>chabot-using-gemini</artifactId>
 	<version>0.0.1</version>
 	<name>chabot-using-gemini</name>
